@@ -13,7 +13,7 @@ I build custom, cross-platform solutions focused on seamless UI/UX and airtight 
 
 *   **Mobile Development:** Flutter, Dart (Specializing in Android deployment, dynamic UIs, and robust media players)
 *   **Web Ecosystem:** JavaScript, Node.js, HTML, CSS, Web3Forms API integration
-*   **DevOps & Architecture:** GitHub Actions, CI/CD pipelines, Base64 Keystore Configurations (and making sure Gradle always reads from `STORE_PASSWORD`!)
+*   **DevOps & Architecture:** We take immense pride in our engineering. However, to comply with strict safety guidelines, protect our intellectual property from malicious cloning, and secure our API integrations, the raw source code of Apps remains closed-source.
 *   **Video & Multimedia:** Advanced mobile editing workflows via VN Video Editor & CapCut (blur effects, rendering optimizations, export pipelines)
 
 ---
@@ -36,9 +36,7 @@ I build custom, cross-platform solutions focused on seamless UI/UX and airtight 
 When I'm away from VS Code and my pharmacy textbooks, my operating system runs on a different set of tasks:
 
 *   📊 **Technical Analysis:** Trading the intraday markets by testing and refining 9 EMA and 21 EMA crossover strategies.
-*   🍳 **Culinary Speedruns:** Mastering quick Indian vegetarian cooking—always down for a fast plate of bhunji sevaiyan upma.
-*   🎬 **Cinephile:** Unwinding with Bollywood hits, South Indian feature cinema, and brilliant family short films. 
-*   📋 **Life Admin:** Balancing time at home with my brother and dad, tutoring foundational English, maintaining a flawless post-smoothing hair care routine (sulfate-free only!), and navigating the occasional FSSAI Form A renewal for the local food establishment. 
+*   🎬 **Cinephile:** Unwinding with Bollywood hits, South Indian feature cinema, and brilliant family short films.
 
 ---
 *Let's connect and build something impactful!*
